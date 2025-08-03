@@ -1,0 +1,6 @@
+spring:
+    application:
+        name: text-to-speech
+    ai:
+        openai:
+            api-key: ${OPENAI_API_KEY}
